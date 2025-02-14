@@ -1,6 +1,5 @@
 {
-    "favicon": "/assets/logo_isotipo.svg",
-    "main": "assets/icons/logo_ser_unidad.svg",
+    "main": "assets/icons/logoCompl-white.svg",
     "language": {
       "inital": "assets/icons/lang-es(FFFFFF).png",
       "alter": "assets/icons/lang-en(FFFFFF).png"

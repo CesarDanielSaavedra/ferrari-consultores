@@ -1,9 +1,9 @@
 {
-  "name": "ser-unidad",
+  "name": "ferraro-consultores",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://CesarDanielSaavedra.github.io/ser-unidad",
+  "homepage": "https://github.com/CesarDanielSaavedra/ferrari-consultores",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
