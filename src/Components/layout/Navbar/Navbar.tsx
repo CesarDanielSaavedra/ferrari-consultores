@@ -35,7 +35,7 @@ const Navbar = () => {
   const linksItems = createLinkList(dictionary.links, ROUTES);
 
   return (
-    <nav className="fixed top-0 left-0 w-full bg-secondary-lightGray bg-opacity-50 pt-2 pr-4 pb-2 pl-4 text-white z-10">
+    <nav className="absolute w-full bg-secondary-lightGray/[20%] pt-2 pr-4 pb-2 pl-4 text-white z-10 ">
       <div className='flex items-center justify-between'>
         {/* LOGO */}
         <Link to="/">
@@ -55,7 +55,7 @@ const Navbar = () => {
         <LinksList 
           items={linksItems} 
           className='hidden lg:flex lg:space-x-4 items-center justify-center' 
-          itemClassName='font-vietnam font-semibold text-primary-dark'
+          itemClassName='font-vietnam font-semibold text-primary-light'
         /> 
 
         <ToggleButton 
