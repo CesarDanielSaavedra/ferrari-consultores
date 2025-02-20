@@ -1,6 +1,5 @@
-import { Link } from "react-router-dom";
 
-import images from '../../assets/images/images.json';
+// import images from '../../assets/images/images.json';
 // type Items = {
 //   path: string;
 //   label: string;
@@ -12,14 +11,22 @@ import images from '../../assets/images/images.json';
 //   itemClassName?: string;
 // }
 
-//const Slider = ({ items, className, itemClassName }: LinksListProps) => {
-const Slider = () => {
+interface SliderProps {
+  slides: string[];
+}
+
+const Slider = ({ slides }: SliderProps) => {
   
   return (
-    <div 
-    className="border rounded shadow-lg w-full h-[640px] bg-cover bg-center" 
-    style={{backgroundImage: `url(${import.meta.env.BASE_URL}${images.pages.home.banner}`}}
-    >
+    <div className="flex  scrollbar-hide">
+      {slides.map((slide, index) => (
+        <div 
+          key={index}
+          className="border rounded shadow-lg w-full h-[640px] bg-cover bg-center flex-shrink-0" 
+          style={{backgroundImage: `url(${slide})`}}
+        >
+        </div>
+      ))}
     </div>
   );
 };
