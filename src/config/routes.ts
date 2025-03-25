@@ -7,5 +7,6 @@ export const ROUTES = {
   contact: "/contact",
   philosophy: "/philosophy",
   practiceSpace: "/practice-space",
-  notFound: "/*"
+  notFound: "/*",
+  test: "/test"
 };

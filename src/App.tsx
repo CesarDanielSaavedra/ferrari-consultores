@@ -11,6 +11,7 @@ import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 import Philosophy from './pages/Philosophy';
 import NotFound from './pages/NotFound';
+import Test from './pages/Test';
 
 import { BASE_URL } from './config/constants';
 import { ROUTES } from './config/routes';
@@ -31,6 +32,7 @@ const App = () => {
           <Route path={ROUTES.practiceSpace} element={<PracticeSpace />} /> 
           <Route path={ROUTES.notFound} element={<NotFound />} />
         </Route>
+        <Route path={ROUTES.test} element={<Test />} />
       </Routes>
     </Router>
   );

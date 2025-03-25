@@ -4,22 +4,21 @@ import { useDictionary } from '../hooks/useDictionary';
 
 import Slider from '../components/common/Slider';
 
+import imagesData from "../assets/images/images.json"
+
 const Home = () => {
 
   const { language } = useLanguage();
   const { pages } = useDictionary(language);  
   
-  let slides = [
-    'https://c4.wallpaperflare.com/wallpaper/911/492/963/arbol-naturaleza-paisajes-prado-wallpaper-preview.jpg',
-    'https://wallpapers.com/images/featured-full/fondos-de-hermosos-paisajes-wnxju2647uqrcccv.jpg',
-    'https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-    'https://images.pexels.com/photos/259280/pexels-photo-259280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
-  ]
+  const slides = imagesData.pages.home.banner
 
   return (
     <div className="mx-auto bg-secondary-lightGray">
       {/* Sección del banner */}
-      <Slider slides={slides}/>
+      <div className="border rounded shadow-lg">
+        <Slider slides={slides}/>
+      </div>
 
       <div className="space-y-4 p-4">
         {Object.entries(pages.home.sections).map(([key, section]) => (

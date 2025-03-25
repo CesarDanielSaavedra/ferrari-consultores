@@ -1,7 +1,11 @@
 {
     "pages": {
         "home": {
-            "banner": "assets/images/carrusel_1.png"
+            "banner": [
+                "public/assets/images/carrusel_1.png",
+                "public/assets/images/carrusel_2.png",
+                "public/assets/images/carrusel_3.png"
+            ]
         }
     } 
 }
