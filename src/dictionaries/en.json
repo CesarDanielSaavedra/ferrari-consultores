@@ -12,124 +12,40 @@
         "alterValue": "en"
     },
     "links": {
-        "about": "About Sergio",
-        "yogaClasses": "Yoga",
-        "meditation": "Meditation",
-        "customClasses": "Personalized",
-        "blog": "Blog",
-        "contact": "Contact",
-        "philosophy": "Philosophy",
-        "practiceSpace": "Practice"
+        "hire": "I want to hire staff",
+        "apply": "I want to apply",
+        "services": "Services",
+        "contact": "Contact"
     },
     "pages": {
-        "home": {
-            "welcomeTitle": "Welcome to your space for personal growth",
-            "sections": {
-                "about": {
-                    "title": "About Sergio",
-                    "description": "Learn more about Sergio and his experience in yoga, meditation, and personal development."
-                },
-                "yoga-classes": {
-                    "title": "Yoga Classes",
-                    "description": "Explore our yoga classes for all levels, from beginners to advanced. In our classes, you will learn postures, breathing, and meditation to improve your physical and mental well-being."
-                },
-                "meditation": {
-                    "title": "Meditation Classes",
-                    "description": "Join our meditation classes to find inner peace, improve concentration, and reduce stress. We offer various meditation techniques for all levels."
-                },
-                "custom-classes": {
-                    "title": "Customized Classes",
-                    "description": "If you're looking for a more personalized experience, our customized classes tailored to your needs and schedule will allow you to progress at your own pace and according to your goals."
-                },
-                "blog": {
-                    "title": "Blog",
-                    "description": "Read our articles about yoga, meditation, and holistic well-being, where we share tips, experiences, and tools to improve your quality of life."
-                },
-                "contact": {
-                    "title": "Contact",
-                    "description": "Get in touch with us for more information about our classes, events, and how we can help you on your wellness journey."
-                },
-                "philosophy": {
-                    "title": "Applied Philosophy",
-                    "description": "Our philosophy is based on the integration of body, mind, and spirit. We believe in a holistic approach to wellness, where the practice of yoga and meditation becomes tools for a fulfilling life."
-                },
-                "practice-space": {
-                    "title": "Practice Space",
-                    "description": "Discover our space where you can practice yoga and meditation, a tranquil and comfortable environment that promotes focus and relaxation."
-                }
-            }
-        },
-        "about": {
-            "welcomeTitle": "About Sergio",
+        "hire": {
+            "welcomeTitle": "Looking for Staff",
             "paragraphs": [
-                "Sergio is a yoga instructor with over 10 years of experience, specializing in breathing techniques, meditation, and integral yoga. His approach focuses on improving the physical and mental health of his students.",
-                "Throughout his career, Sergio has worked with people of all ages and levels, guiding them towards a more balanced and mindful lifestyle. His passion for yoga has led him to train in various schools and philosophies of the discipline, enabling him to offer personalized classes tailored to each student's needs."
+                "Find the right candidates for your company with our recruitment services. We help you connect with professionals who match your needs."
             ]
         },
-        "yoga-classes": {
-            "welcomeTitle": "Yoga Classes",
+        "apply": {
+            "welcomeTitle": "Apply for a Job",
             "paragraphs": [
-                "In our yoga classes, we focus on body alignment, mindfulness, and connection with the breath. We offer classes for all levels, from beginners to advanced, aiming to improve your flexibility, strength, and balance.",
-                "The classes include a combination of postures (asanas), breathing (pranayama), and meditation for a complete practice that strengthens both body and mind. Whether you're looking to reduce stress or increase flexibility, our classes are designed to help you achieve your goals."
+                "Submit your application and explore job opportunities that align with your skills and experience. Start your journey with us today."
             ]
         },
-        "meditation": {
-            "welcomeTitle": "Meditation",
+        "services": {
+            "welcomeTitle": "Our Services",
             "paragraphs": [
-                "Meditation is a powerful tool to reduce stress, improve concentration, and cultivate a calm mind. In our classes, we explore various meditation techniques, such as mindfulness, guided meditation, and transcendental meditation."
-            ]
-        },
-        "custom-classes": {
-            "welcomeTitle": "Customized Classes",
-            "paragraphs": [
-                "Our customized classes are designed to adapt to your goals, needs, and schedule. Whether you're looking for a more intense or relaxing practice, we will work together to create a program that fits your lifestyle."
-            ]
-        },
-        "blog": {
-            "welcomeTitle": "Blog",
-            "paragraphs": [
-                "In our blog, you'll find articles about yoga, meditation, and wellness. From practical tips to improve your daily practice to inspiring stories of people who have transformed their lives through yoga and meditation."
+                "We offer a range of services to support both job seekers and employers, from recruitment consulting to career coaching."
             ]
         },
         "contact": {
-            "welcomeTitle": "Contact Sergio",
+            "welcomeTitle": "Contact Us",
             "paragraphs": [
-                "If you have questions about our classes or need more information, don't hesitate to contact us. We are here to help you on your journey to wellness."
+                "Get in touch for more information about our services, job opportunities, or recruitment solutions. We're here to help."
             ]
         },
         "not-found": {
             "welcomeTitle": "Page Not Found",
             "paragraphs": [
                 "The page you are looking for does not exist. Check the URL or go back to the homepage."
-            ]
-        },
-        "philosophy": {
-            "welcomeTitle": "Philosophy",
-            "paragraphs": [
-                "Our philosophy of yoga and meditation is centered on the balance between body, mind, and spirit. We believe in the importance of living mindfully, cultivating inner peace, and developing a deeper relationship with oneself."
-            ]
-        },
-        "practice-space": {
-            "welcomeTitle": "Practice Spaces",
-            "sections": [
-                {
-                    "title": "Space 1",
-                    "description": [
-                        "Our first space is designed for smaller classes and private sessions. It is ideal for a more intimate and personalized practice where you can work on your personal goals."
-                    ]
-                },
-                {
-                    "title": "Space 2",
-                    "description": [
-                        "The second space is larger and intended for group yoga and meditation classes. This spacious environment fosters collective energy and connection with other students."
-                    ]
-                },
-                {
-                    "title": "Space 3",
-                    "description": [
-                        "Our third space is designed for more meditative practices, with a tranquil and serene atmosphere. It is perfect for deep meditation and restorative yoga classes."
-                    ]
-                }
             ]
         }
     }
