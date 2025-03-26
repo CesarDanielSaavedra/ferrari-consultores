@@ -2,50 +2,71 @@
     "components": {
         "ToogleButton": {
             "lenguageButton": {
-                "initValue": "es",
-                "alterValue": "en"
+                "initValue": "en",
+                "alterValue": "es"
             }
         }
     },
     "languages": {
-        "initValue": "es",
-        "alterValue": "en"
+        "initValue": "en",
+        "alterValue": "es"
     },
     "links": {
-        "hire": "I want to hire staff",
+        "hire": "I want to hire",
         "apply": "I want to apply",
         "services": "Services",
         "contact": "Contact"
     },
     "pages": {
+        "home": {
+            "welcomeTitle": "Welcome to your professional growth space",
+            "sections": {
+                "hire": {
+                    "title": "I want to hire",
+                    "description": "Find the right talent for your company with our specialized recruitment service."
+                },
+                "apply": {
+                    "title": "I want to apply",
+                    "description": "Discover job opportunities that match your profile and advance your career."
+                },
+                "services": {
+                    "title": "Our Services",
+                    "description": "Learn about all the services we offer for companies and candidates in the job market."
+                },
+                "contact": {
+                    "title": "Contact",
+                    "description": "Get in touch with us for more information on how we can assist you in your job or talent search."
+                }
+            }
+        },
         "hire": {
-            "welcomeTitle": "Looking for Staff",
+            "welcomeTitle": "I want to hire",
             "paragraphs": [
-                "Find the right candidates for your company with our recruitment services. We help you connect with professionals who match your needs."
+                "Find qualified professionals for your company with our selection and recruitment service."
             ]
         },
         "apply": {
-            "welcomeTitle": "Apply for a Job",
+            "welcomeTitle": "I want to apply",
             "paragraphs": [
-                "Submit your application and explore job opportunities that align with your skills and experience. Start your journey with us today."
+                "Explore our job offers and find the perfect job for you."
             ]
         },
         "services": {
             "welcomeTitle": "Our Services",
             "paragraphs": [
-                "We offer a range of services to support both job seekers and employers, from recruitment consulting to career coaching."
+                "We offer comprehensive solutions for companies and candidates, from personnel selection to career counseling."
             ]
         },
         "contact": {
-            "welcomeTitle": "Contact Us",
+            "welcomeTitle": "Contact",
             "paragraphs": [
-                "Get in touch for more information about our services, job opportunities, or recruitment solutions. We're here to help."
+                "If you have any questions or need more information, contact us and we'll be happy to assist you."
             ]
         },
         "not-found": {
-            "welcomeTitle": "Page Not Found",
+            "welcomeTitle": "Page not found",
             "paragraphs": [
-                "The page you are looking for does not exist. Check the URL or go back to the homepage."
+                "The page you're looking for doesn't exist. Check the URL or go back to the home page."
             ]
         }
     }

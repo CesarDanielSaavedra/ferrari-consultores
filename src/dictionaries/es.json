@@ -12,124 +12,61 @@
         "alterValue": "es"
     },
     "links": {
-        "about": "Acerca de Sergio",
-        "yogaClasses": "Yoga",
-        "meditation": "Meditación",
-        "customClasses": "Personalizadas",
-        "blog": "Blog",
-        "contact": "Contacto",
-        "philosophy": "Filosofía",
-        "practiceSpace": "Práctica"
+        "hire": "Quiero buscar personal",
+        "apply": "Quiero postularme",
+        "services": "Servicios",
+        "contact": "Contacto"
     },
     "pages": {
         "home": {
-            "welcomeTitle": "Bienvenido/a a tu espacio de crecimiento personal",
+            "welcomeTitle": "Bienvenido/a a tu espacio de crecimiento profesional",
             "sections": {
-                "about": {
-                    "title": "Acerca de Sergio",
-                    "description": "Conoce más sobre Sergio y su experiencia en yoga, meditación y desarrollo personal."
+                "hire": {
+                    "title": "Quiero buscar personal",
+                    "description": "Encuentra el talento adecuado para tu empresa con nuestro servicio de reclutamiento especializado."
                 },
-                "yoga-classes": {
-                    "title": "Clases de Yoga",
-                    "description": "Explora nuestras clases de yoga para todos los niveles, desde principiantes hasta avanzados. En nuestras clases aprenderás posturas, respiración y meditación para mejorar tu bienestar físico y mental."
+                "apply": {
+                    "title": "Quiero postularme",
+                    "description": "Descubre oportunidades laborales que se ajusten a tu perfil y desarrolla tu carrera profesional."
                 },
-                "meditation": {
-                    "title": "Clases de Meditación",
-                    "description": "Únete a nuestras clases de meditación para encontrar la paz interior, mejorar tu concentración y reducir el estrés. Ofrecemos diferentes técnicas de meditación para todos los niveles."
-                },
-                "custom-classes": {
-                    "title": "Clases Personalizadas",
-                    "description": "Si buscas una experiencia más personalizada, nuestras clases adaptadas a tus necesidades y horarios te permitirán avanzar a tu propio ritmo y según tus objetivos."
-                },
-                "blog": {
-                    "title": "Blog",
-                    "description": "Lee nuestros artículos sobre yoga, meditación y bienestar integral, donde compartimos consejos, experiencias y herramientas para mejorar tu calidad de vida."
+                "services": {
+                    "title": "Nuestros Servicios",
+                    "description": "Conoce todos los servicios que ofrecemos para empresas y candidatos en el mundo laboral."
                 },
                 "contact": {
                     "title": "Contacto",
-                    "description": "Ponte en contacto con nosotros para más información sobre nuestras clases, eventos y cómo podemos ayudarte en tu camino de bienestar."
-                },
-                "philosophy": {
-                    "title": "Filosofía Aplicada",
-                    "description": "Nuestra filosofía se basa en la integración del cuerpo, mente y espíritu. Creemos en un enfoque holístico del bienestar, donde la práctica del yoga y la meditación se convierten en herramientas para una vida plena."
-                },
-                "practice-space": {
-                    "title": "Espacio de Práctica",
-                    "description": "Conoce nuestro espacio donde puedes practicar yoga y meditación, un ambiente tranquilo y cómodo que favorece la concentración y relajación."
+                    "description": "Ponte en contacto con nosotros para más información sobre cómo podemos ayudarte en tu búsqueda laboral o de talento."
                 }
             }
         },
-        "about": {
-            "welcomeTitle": "Acerca de Sergio",
+        "hire": {
+            "welcomeTitle": "Quiero buscar personal",
             "paragraphs": [
-                "Sergio es un instructor de yoga con más de 10 años de experiencia, especializado en técnicas de respiración, meditación y yoga integral. Su enfoque se centra en la mejora de la salud física y mental de sus estudiantes.",
-                "A lo largo de su carrera, Sergio ha trabajado con personas de todas las edades y niveles, guiándolas hacia un estilo de vida más equilibrado y consciente. Su pasión por el yoga lo ha llevado a formarse en diversas escuelas y filosofías de la disciplina, lo que le ha permitido ofrecer clases personalizadas y adaptadas a las necesidades de cada alumno."
+                "Encuentra profesionales calificados para tu empresa con nuestro servicio de selección y reclutamiento."
             ]
         },
-        "yoga-classes": {
-            "welcomeTitle": "Clases de Yoga",
+        "apply": {
+            "welcomeTitle": "Quiero postularme",
             "paragraphs": [
-                "En nuestras clases de yoga, nos enfocamos en la alineación del cuerpo, la conciencia plena y la conexión con la respiración. Ofrecemos clases para todos los niveles, desde principiantes hasta avanzados, con el objetivo de mejorar tu flexibilidad, fuerza y equilibrio.",
-                "Las clases incluyen una combinación de posturas (asanas), respiración (pranayama) y meditación para lograr una práctica completa que fortalezca tanto el cuerpo como la mente. Ya sea que busques reducir el estrés o aumentar tu flexibilidad, nuestras clases están diseñadas para ayudarte a alcanzar tus metas."
+                "Explora nuestras ofertas laborales y encuentra el trabajo ideal para ti."
             ]
         },
-        "meditation": {
-            "welcomeTitle": "Meditaciones",
+        "services": {
+            "welcomeTitle": "Nuestros Servicios",
             "paragraphs": [
-                "La meditación es una herramienta poderosa para reducir el estrés, mejorar la concentración y cultivar una mente tranquila. En nuestras clases, exploramos diversas técnicas de meditación, como la atención plena (mindfulness), la meditación guiada y la meditación trascendental."
-            ]
-        },
-        "custom-classes": {
-            "welcomeTitle": "Clases Personalizadas",
-            "paragraphs": [
-                "Nuestras clases personalizadas están diseñadas para adaptarse a tus objetivos, necesidades y horarios. Ya sea que busques una práctica más intensa o relajante, trabajaremos juntos para crear un programa que se ajuste a tu estilo de vida."
-            ]
-        },
-        "blog": {
-            "welcomeTitle": "Blog",
-            "paragraphs": [
-                "En nuestro blog encontrarás artículos sobre yoga, meditación y bienestar. Desde consejos prácticos sobre cómo mejorar tu práctica diaria hasta historias inspiradoras de personas que han transformado su vida a través del yoga y la meditación."
+                "Ofrecemos soluciones integrales para empresas y candidatos, desde selección de personal hasta asesoramiento laboral."
             ]
         },
         "contact": {
-            "welcomeTitle": "Contacta al Sergio",
+            "welcomeTitle": "Contacto",
             "paragraphs": [
-                "Si tienes preguntas sobre nuestras clases o necesitas más información, no dudes en ponerte en contacto con nosotros. Estamos aquí para ayudarte en tu camino hacia el bienestar."
+                "Si tienes preguntas o deseas más información, contáctanos y con gusto te atenderemos."
             ]
         },
         "not-found": {
             "welcomeTitle": "Página no encontrada",
             "paragraphs": [
                 "La página que estás buscando no existe. Verifica la URL o regresa al inicio."
-            ]
-        },
-        "philosophy": {
-            "welcomeTitle": "De la Filosofía",
-            "paragraphs": [
-                "Nuestra filosofía de yoga y meditación está centrada en el equilibrio entre el cuerpo, la mente y el espíritu. Creemos en la importancia de vivir de manera consciente, cultivando la paz interior y desarrollando una relación más profunda con uno mismo."
-            ]
-        },
-        "practice-space": {
-            "welcomeTitle": "Espacios de práctica",
-            "sections": [
-                {
-                    "title": "Espacio 1.",
-                    "description": [
-                        "Nuestro primer espacio está diseñado para clases más pequeñas y sesiones privadas. Es ideal para una práctica más íntima y personalizada, donde puedes trabajar en tus objetivos personales."
-                    ]
-                },
-                {
-                    "title": "Espacio 2.",
-                    "description": [
-                        "El segundo espacio es más amplio y está destinado a clases grupales de yoga y meditación. Este ambiente espacioso favorece la energía colectiva y la conexión con otros estudiantes."
-                    ]
-                },
-                {
-                    "title": "Espacio 3.",
-                    "description": [
-                        "Nuestro tercer espacio está diseñado para prácticas más meditativas, con un ambiente tranquilo y sereno. Es perfecto para clases de meditación profunda y yoga restaurativo."
-                    ]
-                }
             ]
         }
     }

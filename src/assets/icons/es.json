@@ -3,5 +3,6 @@
     "language": {
       "inital": "assets/icons/lang-en(FFFFFF).png",
       "alter": "assets/icons/lang-es(FFFFFF).png"
-    }
+    },
+    "whatsapp": "assets/icons/whatsapp-white.svg"
 }

@@ -58,14 +58,20 @@ const Navbar = () => {
           itemClassName='font-poppins font-semibold text-secondary-white'
         /> 
 
-        <ToggleButton 
-          className="p-2 rounded-lg hover:bg-secondary-gray transition duration-200"
-          initValue={`${BASE_URL}${icons.language.inital}`} 
-          initClassName="w-8 h-8" 
-          alterValue={`${BASE_URL}${icons.language.alter}`}
-          alterClassName="w-8 h-8"
-          onClick={handleLanguageChange}
-        />
+        <div>
+          <ToggleButton 
+            className="p-2 rounded-lg hover:bg-secondary-gray transition duration-200 hidden"
+            initValue={`${BASE_URL}${icons.language.inital}`} 
+            initClassName="w-8 h-8" 
+            alterValue={`${BASE_URL}${icons.language.alter}`}
+            alterClassName="w-8 h-8"
+            onClick={handleLanguageChange}
+          />
+          {/* LOGO */}
+          <Link to="/">
+            <img src={`${BASE_URL}${icons.whatsapp}`} alt="Logo" className="h-6" />
+          </Link>
+        </div>
       
       </div>
       <ToggleModal isOpen={isMenuOpen} onClose={handleToggleMenu}/>
