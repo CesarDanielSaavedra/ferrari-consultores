@@ -55,7 +55,7 @@ const Navbar = () => {
         <LinksList 
           items={linksItems} 
           className='hidden lg:flex lg:space-x-4 items-center justify-center' 
-          itemClassName='font-vietnam font-semibold text-primary-light'
+          itemClassName='font-poppins font-semibold text-primary-light'
         /> 
 
         <ToggleButton 

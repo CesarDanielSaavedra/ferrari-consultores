@@ -9,11 +9,12 @@ export default {
       fontFamily: {
         serif: ["'Noto Serif'", "serif"], // Para Noto Serif (variable o estática)
         vietnam: ["'Be Vietnam'", "sans-serif"], // Para Be Vietnam (estática)
+        poppins: ["'Poppins'", "sans-serif"],
       },
       colors: {
         primary: {
-          light: "#957F48",
-          dark: "#4E5A51",
+          light: "#E59435",
+          dark: "#1A2B4C",
         },
         secondary: {
           blue: "#606AA1",
